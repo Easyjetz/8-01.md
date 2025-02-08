@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo 'Hello, Netology!'
+echo 'Hello, Netology2!'
